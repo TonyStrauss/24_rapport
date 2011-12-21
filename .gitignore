@@ -1,0 +1,8 @@
+Gemfile.lock
+_deployment/**
+_development/**
+_production/**
+.idea/**
+.jhw-cache/**
+
+
